@@ -1,77 +1,25 @@
-<div align="center">
+# AIDE
 
-<a href="https://aide.nicepkg.cn">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/78b89b18-0846-4885-89f2-8238fac1db49">
-    <img src="https://github.com/user-attachments/assets/40ed79a5-d415-4f36-907e-63753995305b" alt="nicepkg" width="400" />
-  </picture>
-</a>
+本仓库是「AIDE」的安卓版本获取入口，附使用资料索引。
 
-English / [简体中文](https://github.com/nicepkg/aide/tree/master/README_CN.md) / [日本語](https://github.com/nicepkg/aide/tree/master/README_JP.md)
+## 安装文件资源（夸克网盘）
 
-Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 💪
+> **AIDE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/500017ebe07f](https://pan.quark.cn/s/500017ebe07f)
 
-在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
+## 官方项目
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/nicepkg.aide-pro)](https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/nicepkg.aide-pro)](https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/nicepkg.aide-pro)](https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro)
-[![License](https://img.shields.io/github/license/nicepkg/aide)](https://github.com/nicepkg/aide/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/nicepkg/aide)](https://github.com/nicepkg/aide)
+- 上游项目：[nicepkg/aide](https://github.com/nicepkg/aide)
 
-</div>
+## 更多资料
 
-## Document 📚
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [内置互动课程怎么进](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E5%86%85%E7%BD%AE%E4%BA%92%E5%8A%A8%E8%AF%BE%E7%A8%8B%E6%80%8E%E4%B9%88%E8%BF%9B.md)
+- [外接键盘快捷键对照表](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E5%A4%96%E6%8E%A5%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%B9%E7%85%A7%E8%A1%A8.md)
+- [常见报错与解决办法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E5%B8%B8%E8%A7%81%E6%8A%A5%E9%94%99%E4%B8%8E%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
+- [支持哪些项目类型](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E6%94%AF%E6%8C%81%E5%93%AA%E4%BA%9B%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B.md)
+- [第一个安卓应用怎么写](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AIDE/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E6%80%8E%E4%B9%88%E5%86%99.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-- See: [https://aide.nicepkg.cn](https://aide.nicepkg.cn)
-- Video:
+---
 
-https://github.com/user-attachments/assets/55f85f8e-7515-4da3-b850-9c078b3440d5
-
-## Features ✨
-
-- 🔄 **[Code Convert](https://aide.nicepkg.cn/guide/features/code-convert)**: Transform code between any programming languages with one click.
-- 📖 **[Code Viewer Helper](https://aide.nicepkg.cn/guide/features/code-viewer-helper)**: Add detailed comments to enhance code readability.
-- 🔧 **[Expert Code Enhancer](https://aide.nicepkg.cn/guide/features/expert-code-enhancer)**: Hand your code over to AI for optimization and see how an expert would write it.
-- 📋 **[Smart Paste](https://aide.nicepkg.cn/guide/features/smart-paste)**: Intelligently convert clipboard content (code or images) when pasting.
-- 🗂️ **[AI Batch Processor](https://aide.nicepkg.cn/guide/features/batch-processor)**: Process multiple files using AI according to custom requirements.
-- 🏷 **[Rename Variable](https://aide.nicepkg.cn/guide/features/rename-variable)**: Get AI-suggested variable names with explanations.
-- 💬 **[Ask AI](https://aide.nicepkg.cn/guide/features/ask-ai)**: Execute custom AI commands on selected files or folders.
-- 📝 **[Copy as AI Prompt](https://aide.nicepkg.cn/guide/features/copy-as-prompt)**: Easily copy files/folders content as AI prompts.
-
-## Installation 📦
-
-1. Open Visual Studio Code
-2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "[Aide](https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro)"
-4. Click Install
-
-## ChangeLog 📅
-
-See the [CHANGELOG](https://github.com/nicepkg/aide/blob/master/CHANGELOG.md) for the latest updates.
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request. See the [Contributing Guide](https://github.com/nicepkg/aide/blob/master/CONTRIBUTING.md) for more details.
-
-This project exists thanks to all the people who contribute:
-
-<a href="https://github.com/nicepkg/aide/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nicepkg/aide" />
-</a>
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/nicepkg/aide/blob/master/LICENSE) file for details.
-
-## Support 💖
-
-If you find this project helpful, please consider giving it a ⭐️ on [GitHub](https://github.com/nicepkg/aide)!
-
-## Star History ⭐
-
-<div align="center">
-
-<img src="https://api.star-history.com/svg?repos=nicepkg/aide&type=Date" width="600" height="400" alt="Star History Chart" valign="middle">
-
-</div>
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/nicepkg/aide)。
